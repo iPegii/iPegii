@@ -7,7 +7,10 @@
 ### <div align="center">I'm Pekka, a full-time full-stack software developer 👨‍💻 working since 2020 🚀</div>  
   
 
-- 🔭 I'm currently in TOSKA and main project: [Lomake](https://github.com/UniversityOfHelsinkiCS/lomake)  
+- 🔭 I'm currently in **TOSKA** and main project: [Lomake](https://github.com/UniversityOfHelsinkiCS/lomake)
+- 🏢📚 Previously worked in **MOOC-center** on [Secret project](https://github.com/rage/secret-project-331)
+  - Also had my part in creating [Miten talous toimii?](https://talouskurssi.fi/) and [Ethics of Ai](https://ethics-of-ai.mooc.fi/fi/)
+- 🧑‍🎓 I have developed Matlu ry's company fair event "**Kumpulan potentiaali**" with their website [Potentiaali](www.potentiaali.com)
 
 <br/>  
 
