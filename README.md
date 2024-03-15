@@ -1,5 +1,6 @@
 <div align="center">
-  Image here
+  
+  ![image](https://github.com/iPegii/iPegii/blob/main/github-header-image.png)
 </div>  
   
 
