@@ -10,7 +10,7 @@
 - 🔭 I'm currently in **TOSKA** and main project: [Lomake](https://github.com/UniversityOfHelsinkiCS/lomake)
 - 🏢📚 Previously worked in **MOOC-center** on [Secret project](https://github.com/rage/secret-project-331)
   - Also had my part in creating [Miten talous toimii?](https://talouskurssi.fi/), [Ethics of Ai](https://ethics-of-ai.mooc.fi/fi/) and [Tiedelukutaidon perusteet](https://tiedelukutaito.mooc.fi/)
-- 🧑‍🎓 I have developed Matlu ry's company fair event "**Kumpulan potentiaali**" with their website [Potentiaali](www.potentiaali.com)
+- 🧑‍🎓 I have been helping Matlu ry's company fair event "**Kumpulan potentiaali**" by developing their website [Potentiaali](www.potentiaali.com)
 
 <br/>  
 
