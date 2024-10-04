@@ -6,9 +6,9 @@
 
 ### <div align="center">I'm Pekka, a full-time full-stack software developer 👨‍💻 working since 2020 🚀</div>  
   
-
-- 🔭 I'm currently in **TOSKA** and main project: [Lomake](https://github.com/UniversityOfHelsinkiCS/lomake)
-- 🏢📚 Previously worked in **MOOC-center** on [Secret project](https://github.com/rage/secret-project-331)
+- :computer: Currently working at Taito United.
+- 🔭 Previously worked at **TOSKA** and main project: [Lomake](https://github.com/UniversityOfHelsinkiCS/lomake)
+- 🏢📚 Previously worked at **MOOC-center** on [Secret project](https://github.com/rage/secret-project-331)
   - Also had my part in creating [Miten talous toimii?](https://talouskurssi.fi/), [Ethics of Ai](https://ethics-of-ai.mooc.fi/fi/) and [Tiedelukutaidon perusteet](https://tiedelukutaito.mooc.fi/)
 - 🧑‍🎓 I have been helping Matlu ry's company fair event "**Kumpulan potentiaali**" by developing their website [Potentiaali](www.potentiaali.com)
 
