@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Pekka, a full-time full-stack software developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Pekka, a full-time full-stack software developer 👨‍💻</div>  
   
 - :computer: Currently working at Taito United.
 - 🔭 Previously worked at **TOSKA** and main project: [Lomake](https://github.com/UniversityOfHelsinkiCS/lomake)
